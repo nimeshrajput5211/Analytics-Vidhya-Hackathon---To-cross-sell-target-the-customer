@@ -1,0 +1,2 @@
+# Analytics-Vidhya-Hackathon---To-cross-sell-target-the-customer
+The project was Analytics Vidhya Hackathon to predict the most likely customer for the loan. The dataset consist of 500000 instances and 330 features. A retail bank looking to improve their sales from existing customers. I have customer's personal informations with their assets, liabilities and transactions. For that I have used different machine learning classification model family algorithms.
